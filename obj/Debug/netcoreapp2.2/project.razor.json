@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Hafid\\Desktop\\UDC\\Introduccion a las bases de datos\\c#\\myFirtApp\\myFirtApp.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
